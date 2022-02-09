@@ -1,0 +1,33 @@
+class AppImages {
+  static final String welcomeImage1 = "assets/images/welcome1.png";
+  static final String welcomeImage2 = "assets/images/welcome2.png";
+  static final String welcomeImage3 = "assets/images/welcome3.png";
+  static final String cp = "assets/images/cp.png";
+  static final String google = "assets/images/google.png";
+  static final String banner = "assets/images/banner.png";
+  static final String d1 = "assets/images/d1.png";
+  static final String d2 = "assets/images/d2.png";
+  static final String d3 = "assets/images/d3.png";
+  static final String d4 = "assets/images/d4.png";
+  static final String d5 = "assets/images/d5.png";
+  static final String vegetable1 = "assets/images/vegetable1.png";
+  static final String vegetable2 = "assets/images/vegetable2.png";
+  static final String e1 = "assets/images/e1.png";
+  static final String e2 = "assets/images/e2.png";
+  static final String e3 = "assets/images/e3.png";
+  static final String e4 = "assets/images/e4.png";
+  static final String e5 = "assets/images/e5.png";
+  static final String e6 = "assets/images/e6.png";
+  static final String e7 = "assets/images/e7.png";
+  static final String e8 = "assets/images/e8.png";
+  static final String coupons1 = "assets/images/coupons1.png";
+  static final String coupons2 = "assets/images/coupons2.png";
+  static final String coupons3 = "assets/images/coupons3.png";
+  static final String fruitsvegetableimages1 = "assets/images/fv1.png";
+  static final String fruitsvegetableimages2 = "assets/images/fv2.png";
+  static final String fruitsvegetableimages3 = "assets/images/fv3.png";
+  static final String fruitsvegetableimages4 = "assets/images/fv4.png";
+  static final String fruitsvegetableimages5 = "assets/images/fv5.png";
+  static final String paymentSign = "assets/images/paymentsign.png";
+  static final String print = "assets/images/print.png";
+}
