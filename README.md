@@ -1,2 +1,2 @@
 # grocery-app
-grocety app 
+grocery app 
